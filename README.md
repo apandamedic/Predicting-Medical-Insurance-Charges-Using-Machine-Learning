@@ -1,4 +1,3 @@
-# Predicting-Medical-Insurance-Charges-Using-Machine-Learning
 # Medical Cost Prediction using Regression Models
 
 This project demonstrates the prediction of medical insurance charges using a mock dataset. We use data preprocessing, exploratory data analysis (EDA), and regression models (Linear Regression and Random Forest) to understand and predict the charges.
